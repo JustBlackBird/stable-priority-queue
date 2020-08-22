@@ -1,6 +1,6 @@
 # Stable Priority Queue
 
-![Test](https://github.com/JustBlackBird/stable-priority-queue/workflows/Test/badge.svg)
+[![Latest Stable Version](https://poser.pugx.org/justblackbird/stable-priority-queue/v)](//packagist.org/packages/justblackbird/stable-priority-queue) ![Test](https://github.com/JustBlackBird/stable-priority-queue/workflows/Test/badge.svg)
 
 > Stable implementation of priority queue data structure in PHP.
 
